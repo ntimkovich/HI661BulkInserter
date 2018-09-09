@@ -1,0 +1,9 @@
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\bin\Debug\HI661 Bulk Inserter.exe.config
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\bin\Debug\HI661 Bulk Inserter.exe
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\bin\Debug\HI661 Bulk Inserter.pdb
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\obj\Debug\HI661 Bulk Inserter.csprojResolveAssemblyReference.cache
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\obj\Debug\HI661_Bulk_Inserter.Form1.resources
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\obj\Debug\HI661_Bulk_Inserter.Properties.Resources.resources
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\obj\Debug\HI661 Bulk Inserter.csproj.GenerateResource.Cache
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\obj\Debug\HI661 Bulk Inserter.exe
+C:\SourceCode\HI661 Bulk Inserter\HI661 Bulk Inserter\obj\Debug\HI661 Bulk Inserter.pdb
